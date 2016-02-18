@@ -11,4 +11,13 @@ Make a Wish
 使用方式：提供內部快速編譯環境、 Openstack 各節點<br />
 使用作業系統：VMware vSphere ESXi 6.0 (Free License)
 
-# to be continued
+### x64 NAS
+
+建置方式：傾向機架 NAS 伺服器<br />
+預計花費：未知<br />
+使用方式：提供 Openstack 儲存空間<br />
+使用作業系統：FreeNAS<br />
+
+### ARMv8 Server
+
+to be continued
